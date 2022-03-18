@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/a1613xw2/git.exploreanddo.com/
+    - /bin/cp * $DEPLOYPATH
+ 
